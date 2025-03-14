@@ -1,18 +1,18 @@
 name: Icon update
 description: Request an icon be updated
-title: 'Update: <name>'
+title: 'Update: <name of project/icon>'
 
 body:
   - type: input
     attributes:
-      label: Name
+      label: Name of project/icon
       placeholder: 'Example: GitHub (Invertocat)'
     validations:
       required: true
 
   - type: input
     attributes:
-      label: Website
+      label: Website of project/icon
       description: |
         Add a link to a relevant website.
       placeholder: 'Example: https://github.com'

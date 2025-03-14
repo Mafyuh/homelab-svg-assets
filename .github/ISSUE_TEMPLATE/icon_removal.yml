@@ -1,11 +1,11 @@
 name: Icon removal
 description: Request an icon be removed
-title: 'Removal: <name>'
+title: 'Removal: <name of project/icon>'
 
 body:
   - type: input
     attributes:
-      label: Name
+      label: Name of project/icon
       placeholder: 'Example: Oracle'
     validations:
       required: true
