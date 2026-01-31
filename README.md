@@ -12,7 +12,7 @@
 <a href="https://packagist.org/packages/loganmarchione/homelab-svg-assets"><img src="https://img.shields.io/packagist/v/loganmarchione/homelab-svg-assets?color=green&logo=packagist&logoColor=white&label=Latest%20Packagist%20Version" alt="Latest Packagist Version"/></a>
 <a href="https://www.npmjs.com/package/@loganmarchione/homelab-svg-assets"><img src="https://img.shields.io/npm/v/@loganmarchione/homelab-svg-assets?color=green&logo=npm&label=Latest%20NPM%20Version" alt="Latest NPM Version"/></a>
 
-Over 575 full-color SVG icons of homelab-related software, products, and brands in a normalized size.
+Over 600 full-color SVG icons of homelab-related software, products, and brands in a normalized size.
 
 # Table of Contents
 - [Table of Contents](#table-of-contents)
@@ -161,7 +161,3 @@ It would be remiss of me if I did not mention other great icons sets
 - [Devicon](https://devicon.dev/) - Icons representing programming languages, designing & development tools
 - [Dashboard Icons](https://github.com/walkxcode/dashboard-icons/tree/main) - Mix of SVG and PNG dashboard icons
 - [Aegis Icons](https://github.com/aegis-icons/aegis-icons) - Unofficial 2FA entry icons for open source Android authenticator Aegis
-
-# TODO
-
-See [TODO.md](TODO.md)

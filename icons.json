@@ -31,6 +31,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/adminer.svg",
+            "name": "Adminer",
+            "source": "https://github.com/loganmarchione/homelab-svg-assets/issues/56#issuecomment-2878003842",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/adminerevo.svg",
             "name": "AdminerEvo",
             "source": "https://github.com/adminerevo/adminerevo/blob/main/docs/assets/logo.svg",
@@ -118,6 +124,24 @@
             "path": "./assets/antennas.svg",
             "name": "Antennas",
             "source": "https://github.com/jfarseneau/antennas/blob/main/public/images/Antennas-Logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/anthropic-black.svg",
+            "name": "Anthropic (black)",
+            "source": "https://www.anthropic.com/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/anthropic-white.svg",
+            "name": "Anthropic (white)",
+            "source": "https://www.anthropic.com/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/anthropic-claude.svg",
+            "name": "Anthropic Claude",
+            "source": "https://claude.ai/",
             "guidelines": ""
         },
         {
@@ -329,6 +353,12 @@
             "name": "Backblaze",
             "source": "https://www.backblaze.com/partner/affiliate_resources.html",
             "guidelines": "https://www.backblaze.com/company/news.html"
+        },
+        {
+            "path": "./assets/bambulab.svg",
+            "name": "Bambu Lab",
+            "source": "https://bambulab.com/",
+            "guidelines": ""
         },
         {
             "path": "./assets/bash-dark.svg",
@@ -563,6 +593,12 @@
             "name": "Consul",
             "source": "https://www.hashicorp.com/brand",
             "guidelines": "https://www.hashicorp.com/brand"
+        },
+        {
+            "path": "./assets/counterstrike.svg",
+            "name": "Counter-Strike (CS:GO/CS2)",
+            "source": "https://eliteark.com/wp-content/uploads/2019/10/game-cs-go.svg",
+            "guidelines": ""
         },
         {
             "path": "./assets/cpanel.svg",
@@ -997,6 +1033,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/garage.svg",
+            "name": "Garage",
+            "source": "https://git.deuxfleurs.fr/Deuxfleurs/garage/src/branch/main-v1/doc/logo/garage-notext.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/gatsby.svg",
             "name": "Gatsby",
             "source": "https://www.gatsbyjs.com/guidelines/logo",
@@ -1127,6 +1169,12 @@
             "name": "Go (blue)",
             "source": "https://go.dev/blog/go-brand",
             "guidelines": "https://go.dev/blog/go-brand"
+        },
+        {
+            "path": "./assets/goaccess.svg",
+            "name": "GoAccess",
+            "source": "https://github.com/allinurl/goaccess/blob/master/resources/goaccess.svg",
+            "guidelines": ""
         },
         {
             "path": "./assets/gogs.svg",
@@ -1897,6 +1945,18 @@
             "guidelines": "https://merch.mikrotik.com/pages/mikrotik-logo"
         },
         {
+            "path": "./assets/minecraft-classic.svg",
+            "name": "Minecraft (Classic)",
+            "source": "https://static.wikia.nocookie.net/logopedia/images/7/7a/Minecraft_2013_launcher.svg/revision/latest",
+            "guidelines": "https://www.minecraft.net/en-us/usage-guidelines"
+        },
+        {
+            "path": "./assets/minecraft-new.svg",
+            "name": "Minecraft (New)",
+            "source": "https://static.wikia.nocookie.net/logopedia/images/3/3c/Minecraft_icon_2021.svg/revision/latest",
+            "guidelines": "https://www.minecraft.net/en-us/usage-guidelines"
+        },
+        {
             "path": "./assets/miniflux.svg",
             "name": "Miniflux",
             "source": "https://github.com/miniflux/logo/blob/master/icon.svg",
@@ -2014,6 +2074,12 @@
             "path": "./assets/navidrome.svg",
             "name": "Navidrome",
             "source": "https://www.navidrome.org/",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/netbird.svg",
+            "name": "NetBird",
+            "source": "https://netbird.io/",
             "guidelines": ""
         },
         {
@@ -2137,6 +2203,12 @@
             "guidelines": "https://www.nvidia.com/en-us/about-nvidia/legal-info/logo-brand-usage/"
         },
         {
+            "path": "./assets/nzbget.svg",
+            "name": "NZBGet",
+            "source": "https://github.com/nzbgetcom/nzbget/blob/develop/webui/img/nzbget.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/obsstudio.svg",
             "name": "OBS Studio",
             "source": "https://github.com/obsproject/obs-studio/blob/master/UI/xdg-data/icons/obs-logo-scalable.svg",
@@ -2206,6 +2278,18 @@
             "path": "./assets/openbsd.svg",
             "name": "OpenBSD",
             "source": "https://en.wikipedia.org/wiki/OpenBSD",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/openccu.svg",
+            "name": "OpenCCU (formerly RaspberryMatic)",
+            "source": "https://github.com/OpenCCU/OpenCCU/blob/master/buildroot-external/overlay/WebUI-openccu/www/ise/img/favicon.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/opencloud.svg",
+            "name": "OpenCloud",
+            "source": "https://opencloud.eu/en/about-us/press",
             "guidelines": ""
         },
         {
@@ -2351,6 +2435,12 @@
             "name": "Palo Alto Networks",
             "source": "https://www.paloaltonetworks.com/company/brand",
             "guidelines": "https://www.paloaltonetworks.com/company/brand"
+        },
+        {
+            "path": "./assets/pangolin.svg",
+            "name": "Pangolin",
+            "source": "https://github.com/fosrl/pangolin/blob/main/public/logo/pangolin_orange.svg",
+            "guidelines": ""
         },
         {
             "path": "./assets/paperlessng.svg",
@@ -2525,6 +2615,12 @@
             "name": "Proxmox",
             "source": "https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment",
             "guidelines": "https://www.proxmox.com/en/news/media-kit"
+        },
+        {
+            "path": "./assets/pufferpanel.svg",
+            "name": "PufferPanel (Custom)",
+            "source": "https://github.com/pufferpanel/pufferpanel/blob/v3/client/frontend/public/favicon.png",
+            "guidelines": ""
         },
         {
             "path": "./assets/pulumi.svg",
@@ -2819,6 +2915,12 @@
             "name": "Snapchat",
             "source": "https://en.wikipedia.org/wiki/Snapchat",
             "guidelines": "https://www.snap.com/en-US/brand-guidelines"
+        },
+        {
+            "path": "./assets/softwarefreedomconservancy.svg",
+            "name": "Software Freedom Conservancy (SFC)",
+            "source": "https://sfconservancy.org/",
+            "guidelines": ""
         },
         {
             "path": "./assets/softwareinthepublicinterest.svg",
@@ -3157,6 +3259,18 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/tubearchivist-black.svg",
+            "name": "Tube Archivist (black)",
+            "source": "https://github.com/tubearchivist/tubearchivist/blob/master/assets/tube-archivist-logo-light.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/tubearchivist-white.svg",
+            "name": "Tube Archivist (white)",
+            "source": "https://github.com/tubearchivist/tubearchivist/blob/master/assets/tube-archivist-logo-dark.svg",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/tubesync.svg",
             "name": "TubeSync",
             "source": "https://github.com/meeb/tubesync/blob/main/tubesync/common/templates/tubesync-coloured.svg",
@@ -3277,6 +3391,12 @@
             "guidelines": ""
         },
         {
+            "path": "./assets/virtualmin.svg",
+            "name": "Virtualmin",
+            "source": "https://www.virtualmin.com/press-kit/",
+            "guidelines": ""
+        },
+        {
             "path": "./assets/visualstudiocode.svg",
             "name": "Visual Studio Code",
             "source": "https://code.visualstudio.com/brand",
@@ -3353,6 +3473,12 @@
             "name": "WebGPU",
             "source": "https://www.w3.org/2023/02/webgpu-logos.html",
             "guidelines": "https://www.w3.org/2023/02/webgpu-logos.html"
+        },
+        {
+            "path": "./assets/webmin.svg",
+            "name": "Webmin",
+            "source": "https://webmin.com/",
+            "guidelines": ""
         },
         {
             "path": "./assets/wekan.svg",
@@ -3550,6 +3676,12 @@
             "path": "./assets/zoneminder.svg",
             "name": "ZoneMinder",
             "source": "https://github.com/ZoneMinder/zoneminder.github.io/blob/master/images/SVGs/Logo.svg",
+            "guidelines": ""
+        },
+        {
+            "path": "./assets/zoraxy.svg",
+            "name": "Zoraxy",
+            "source": "https://github.com/tobychui/zoraxy/blob/main/src/web/img/public/icon.svg",
             "guidelines": ""
         }
     ]
